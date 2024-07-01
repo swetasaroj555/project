@@ -1,0 +1,26 @@
+.navigation  {
+  padding : 0 8px;
+  display: flex;
+  height: 72px;
+  
+  justify-content: space-between;
+  
+  padding-top: 10px;
+  
+  
+}
+.navigation img{
+  padding-left: 30px;
+
+}
+
+ ul {
+  display: flex;
+  gap: 26px;
+  list-style-type: none;
+  font-weight: 500;
+  margin-top: 40px;
+  margin-left: 800px;
+  cursor:pointer;
+  
+}
